@@ -9,7 +9,6 @@ public class ResultTo100 {
             number += 1;    
         }
 
-        
         System.out.println("ผลรวมของจำนวนจาก 1 ถึง 100 คือ: " + sum);
     }
 }
